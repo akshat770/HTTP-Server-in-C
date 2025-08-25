@@ -1,4 +1,4 @@
-# Simple HTTP Server in C (Windows)
+# HTTP Server in C from Scratch (Windows)
 
 A beginner-friendly HTTP server written in C for Windows using **Winsock2**.  
 
